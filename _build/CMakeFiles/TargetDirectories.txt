@@ -1,3 +1,0 @@
-/home/pavel/PNuikin/workspace/projects/lab05_h/_build/CMakeFiles/banking.dir
-/home/pavel/PNuikin/workspace/projects/lab05_h/_build/CMakeFiles/edit_cache.dir
-/home/pavel/PNuikin/workspace/projects/lab05_h/_build/CMakeFiles/rebuild_cache.dir
