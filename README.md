@@ -12,8 +12,6 @@ $ mkdir tests
 $ cd tests
 $ touch test1.cpp
 $ edit test1.cpp
-$ touch test2.cpp
-$ edit test2.cpp
 $ cd ..
 $ mkdir .github
 $ mkdir .github/workflows
